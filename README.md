@@ -18,6 +18,6 @@ and the circuit was designed using tinkercad website as below:
 
 
  ### For simulation:
- - [Press here ](https://www.tinkercad.com/things/kKCEAje9GJr-connecting-6-servo-motors-and-distance-sensor-with-2-arduino-)
+ - [Press here ](https://www.tinkercad.com/things/alM5mwk3yTq-robot-eyes)
  
  The circuit was programmed using the C++ language via the Tinkercad website as shown in ino files in this repository.
